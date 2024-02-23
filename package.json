@@ -1,9 +1,9 @@
 {
-  "name": "ws-argo",
+  "name": "hello",
   "version": "1.0.0",
   "description": "nodejs",
   "main": "index.js",
-  "author": "eoovve",
+  "author": "candy",
   "license": "MIT",
   "private": false,
   "scripts": {
